@@ -1,0 +1,21 @@
+quantify of how much less and how much more   --entropy
+what is entropy
+certainty or uncertainty 
+
+
+task one 
+creative visualiation using matplotlib.pyplot and excel 
+task two 
+conduct eda on simple data set with python
+task 3
+significance of visualizations with python 
+
+
+
+
+
+
+
+
+
+
